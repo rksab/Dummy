@@ -1,10 +1,11 @@
 project:
   type: website
-
+  output-dir: docs
+  
 website:
   title: "site"
   site-url: https://rksab.github.io/Dummy/
-  output-dir: docs
+  
   navbar:
     left:
       - href: index.qmd
